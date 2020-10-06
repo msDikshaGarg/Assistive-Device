@@ -25,4 +25,6 @@ There are three modules in out project:
 
 ## Implementation Diagram
 
-![alt text](filename)
+![alt text](flowchart.png)
+
+**The detailed implementation and information are in the uploaded final report**
