@@ -20,7 +20,7 @@ There are three modules in out project:
 * Google cloud vision API
 * Tkinter
 * Google Speech to Text API
-* Google Speech to Text API
+* Google Text to Speech API
 * Bitwise SSH
 
 ## Implementation Diagram
